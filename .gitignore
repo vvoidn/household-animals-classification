@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local dataset
+/dataset
+data/
+
+# Large cached VGG-16 features
+outputs/vgg16_feature_cache/
+
+# Model checkpoints and backups
+*.pt
+backups/
+
+# OS and editor files
+.DS_Store
+*~

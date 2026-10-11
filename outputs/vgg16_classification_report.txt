@@ -1,0 +1,11 @@
+VGG-16 Validation Evaluation
+Validation accuracy: 98.80%
+
+              precision    recall  f1-score   support
+
+         Cat     0.9867    0.9891    0.9879      2479
+         Dog     0.9893    0.9869    0.9881      2521
+
+    accuracy                         0.9880      5000
+   macro avg     0.9880    0.9880    0.9880      5000
+weighted avg     0.9880    0.9880    0.9880      5000
